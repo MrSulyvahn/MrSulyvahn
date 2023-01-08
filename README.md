@@ -1,5 +1,5 @@
 ### Hello there 👋
-### Olá me chamo João Victor(MrSulyvahn) e sou iniciante no universo de programação e gosto muito de tecnologia!😉
+### Olá me chamo João Victor (MrSulyvahn) e sou iniciante no universo de programação e gosto muito de tecnologia!😉
 ##
 
 <div align="center">
